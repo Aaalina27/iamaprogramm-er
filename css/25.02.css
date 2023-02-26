@@ -1,0 +1,23 @@
+body {
+    background-color: whitesmoke;
+}
+header {
+    text-align: justify;
+    font: caption;
+}
+section {
+    text-align: justify;
+     font: caption;
+}
+a{
+    color: blue;
+    margin: 10px;
+    text-decoration-style: none;
+    text-align: left;
+     font: caption;
+}
+footer{
+    color: gray;
+    text-align: center;
+     font: caption;
+}
